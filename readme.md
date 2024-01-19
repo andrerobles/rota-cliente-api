@@ -6,7 +6,7 @@ A API conta também com end-points para controle de clientes, com métodos de in
 
 ### Instalação
 
-Antes de tudo é necessário a configuração do banco de dados, para isso pode proseguir com os seguintes passos Postgre. Nesse caso utilizei a versão do PostgreSQL 12.
+Antes de tudo é necessário a configuração do banco de dados, para isso pode prosseguir com os seguintes passos Postgre. Nesse caso utilizei a versão do PostgreSQL 12.
 
 Criação de usuário
 
