@@ -1,6 +1,6 @@
 # API Controle de clientes 
 
-O Objetivo da API é entregar a listagem de clientes otimizados pelo melhor caminho. Baseado em sua localização carteziana (X,Y).
+O Objetivo da API é entregar a listagem de clientes otimizados pelo melhor caminho. Baseado em sua localização cartesiana (X,Y).
 
 A API conta também com end-points para controle de clientes, com métodos de inserção, atualização e deleção.
 
@@ -31,7 +31,7 @@ Caso o comando acima tenha ocorrido como o esperado, separei 30 registros que po
 
 Foi utilizada a versão 18.17.0 do node.
 
-Utilize o comando para a isntalação das depencias.
+Utilize o comando para a instalação das dependencias.
 
     yarn
 
